@@ -1,3 +1,6 @@
+// Código de resolução do exercício 01 proposto no PDF da aula
+// Ler numero de digitos, letras, espaços em branco e linhas de um arquivo
+
 #include <stdio.h>
 #include <string.h>
 // Digits, upper and lower case letters, whitespace
